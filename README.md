@@ -21,7 +21,7 @@ The data sets can be downloaded here:
 
 Jupyter Notebook - The full code is contained in the notebook dog_app.ipynb in this github repository.
 
-Blog - I have also written an article in medium which can be accessed [here](https://medium.com/p/7fcc4854aad3/edit).
+Blog - I have also written an article in medium which can be accessed [here](https://medium.com/@moumita_30467/identifying-dog-breeds-using-deep-learning-7fcc4854aad3).
 
 Folders - images and my_images folder contains images that I haved used for testing. 
 
