@@ -35,3 +35,7 @@ jupyter, matplotlib, pandas, numpy, pillow, scipy, tqdm, scikit-learn, scikit-im
 # Summary
 
 The CNN model from scratch yielded an accuracy of 18%, well above the 10% target and the final model using transfer learning with the pretrained model Densenet121 produced 84% accuracy in identifying dog breeds.
+
+# Acknowledgement
+
+Thank you Udacity for providing the opportunity to work on this project!
